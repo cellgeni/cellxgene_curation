@@ -1,4 +1,4 @@
-# dataset-curation
+# cellxgene_curation
 
-This repository includes the notebooks created for dataset curation for [cellxgene.cziscience.com](https://cellxgene.cziscience.com/)
+This repository includes the notebooks created to wrangle datasets for each dataset for [CZ CELLxGENE DISCOVER](https://cellxgene.cziscience.com/)
 
